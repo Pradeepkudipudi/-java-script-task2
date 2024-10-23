@@ -1,4 +1,4 @@
-// 1. What will be the output of this code?
+// 1. What will be the output of this code?--
 
 let x=5;
 let y=x;
